@@ -39,7 +39,6 @@ code/
 │ │ ├── val_features.npz
 │ │ └── val_predictions.pth
 | 
-├── Report_code.ipynb ← Contains runnable code & relevant results
 ├── init.py
 ├── cluster_conformal.py
 ├── conformal_test.py
@@ -50,7 +49,11 @@ code/
 ├── train.py
 ├── train_cifar10.py
 .gitignore
+02456_DeepLearning_Project3_Grp51.docx.pdf ← Report
 README.md
+Report_code_final.ipynb ← Contains runnable code & relevant results
+clustering_paramSweep_results.pdf ← Contains hyper-parameter sweep results
+kNN_paramSweep_results.pdf ← Contains hyper-parameter sweep results
 requirements.txt
 setup.py
 ```
