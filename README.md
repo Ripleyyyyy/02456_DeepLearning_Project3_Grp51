@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-# Conformal Prediction
 
-This project provides a Python implementation of conformal prediction, a technique for constructing statistically rigorous prediction intervals.
-
-To setup the code, run
-```bash
-pip install -r requirements.txt
-pip install -e .
-```
-
-=======
 # 02456DeepLearning_Project3_Grp51
 Project 3 - Reliable uncertainty estimation for neural networks with conformal prediction
 
