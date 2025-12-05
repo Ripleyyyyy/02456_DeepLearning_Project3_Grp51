@@ -2,7 +2,7 @@
 # 02456DeepLearning_Project3_Grp51
 Project 3 - Reliable uncertainty estimation for neural networks with conformal prediction
 
-ABSTRACT
+This project investigates reliable uncertainty estimation for image classification using conformal prediction on the CIFAR-10 dataset. We implement standard split conformal prediction on a fine-tuned ResNet-18 model and evaluate two smoothing methods – cluster-based and k-nearest-neighbors (k-NN) smoothing. Our objective is to evaluate whether incorporating feature-space structure leads to better efficiency and how it affects the non conformity scores. 
 
 This project was completed as part of our Deep Learning module at the Technical University of Denmark for our respective exchange programs. 
 
