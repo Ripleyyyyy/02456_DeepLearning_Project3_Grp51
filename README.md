@@ -44,15 +44,13 @@ code/
 ├── conformal_test.py
 ├── data.py
 ├── evaluate_test.py
-├──  extract_features.py
+├── extract_features.py
 ├── knn_conformal.py
-├──  train.py
-├──  train_cifar10.py
-
+├── train.py
+├── train_cifar10.py
 .gitignore
 README.md
 requirements.txt
 setup.py
-
 ```
 
