@@ -13,7 +13,7 @@ By Group 51:
 - Thorri Elis Halldoruson (BSc Software Engineering, HÍ)
 
 # File Directories
-Please refer to code/Report_code.ipynb for the main results.
+Please refer to Report_code_final.ipynb for the main results!!!!
 ```
 code/
 ├── data/
