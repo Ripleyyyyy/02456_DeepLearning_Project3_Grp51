@@ -13,6 +13,7 @@ By Group 51:
 - Thorri Elis Halldoruson
 
 # File Directories
+Please refer to code/Report_code.ipynb for the main results.
 ```
 code/
 ├── data/
