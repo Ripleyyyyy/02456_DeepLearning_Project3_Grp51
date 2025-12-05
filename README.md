@@ -13,6 +13,7 @@ By Group 51:
 - Thorri Elis Halldoruson
 
 # File Directories
+```
 code/
 ├── data/
 │ └── cifar-10-batches-py/
@@ -47,8 +48,11 @@ code/
 ├── knn_conformal.py
 ├──  train.py
 ├──  train_cifar10.py
-├── .gitignore
-├── README.md
-├── requirements.txt
-└── setup.py
+
+.gitignore
+README.md
+requirements.txt
+setup.py
+
+```
 
