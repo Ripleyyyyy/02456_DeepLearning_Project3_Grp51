@@ -10,7 +10,7 @@ By Group 51:
 - My Lan Nguyen (BASc Biomedical Engineering, UBC)
 - Saffron Salmah Yen Lim (BComp Data Science & Artificial Intelligence, NTU Singapore)
 - Fatima Nowshad (BComp Data Science & Artificial Intelligence, NTU Singapore)
-- Thorri Elis Halldoruson
+- Thorri Elis Halldoruson (BSc Software Engineering, HÍ)
 
 # File Directories
 Please refer to code/Report_code.ipynb for the main results.
