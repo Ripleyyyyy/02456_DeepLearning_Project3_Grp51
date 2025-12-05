@@ -7,7 +7,7 @@ ABSTRACT
 This project was completed as part of our Deep Learning module at the Technical University of Denmark for our respective exchange programs. 
 
 By Group 51:
-- My Lan Nguyen
+- My Lan Nguyen (BASc Biomedical Engineering, UBC)
 - Saffron Salmah Yen Lim (BComp Data Science & Artificial Intelligence, NTU Singapore)
 - Fatima Nowshad (BComp Data Science & Artificial Intelligence, NTU Singapore)
 - Thorri Elis Halldoruson
